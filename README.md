@@ -18,7 +18,7 @@ Este proyecto es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, El
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](screenshots/screenshot1.png)
+![Captura de Pantalla 1](Screenshot_103.png)
 <!-- Puedes agregar más capturas de pantalla según sea necesario -->
 
 ## Contribuciones
