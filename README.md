@@ -31,4 +31,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Contacto
 
-Para más información, visita nuestro [blog](https://example.com) y suscríbete a nuestro canal de [YouTube](https://youtube.com/user/juancitopena).
+Para más información, visita nuestro [blog](https://advisertecnology.com/) y suscríbete a nuestro canal de [YouTube](https://www.youtube.com/channel/UCSob-3E5z4IHtMF5B4bN-FA).
