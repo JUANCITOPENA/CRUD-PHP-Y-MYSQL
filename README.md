@@ -1,4 +1,4 @@
-# Proyecto CRUD PHP y MySQL
+# Fundamentos de PHP y MySQL (COn Proyecto CRUD)
 
 Este proyecto es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) desarrollada en PHP y MySQL.
 
