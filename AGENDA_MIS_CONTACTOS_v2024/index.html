@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interfaz con PHP</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Google Fonts - Roboto -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+  <style>
+    /* Estilos personalizados */
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    .navbar {
+      background-color: #343a40; /* Color del navbar */
+    }
+    .navbar-brand, .navbar-nav .nav-link {
+      color: #fff; /* Color del texto */
+    }
+  </style>
+</head>
+<body>
+  <!-- Barra de navegación -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Mi Aplicación</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="obtener_contactos.php"><i class="fas fa-address-book"></i> Contactos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="crear_contacto.php"><i class="fas fa-user-plus"></i> Crear Contacto</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="actualizar_contacto.php"><i class="fas fa-user-edit"></i> Actualizar Contacto</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="formulario_eliminar_contacto.html"><i class="fas fa-user-minus"></i> Eliminar Contacto</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Contenido principal -->
+  <div class="container mt-5">
+    <h1 class="text-center mb-4">Bienvenido a Mi Aplicación</h1>
+    <!-- Aquí iría el resto del contenido de tu aplicación -->
+  </div>
+
+  <!-- jQuery y Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
